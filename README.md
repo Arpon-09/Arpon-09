@@ -3,6 +3,25 @@ flutter & cross-platform mobile developer, learning android (java)
 
 ---
 
+### 🔭 i’m currently working on
+- cross-platform mobile app development with flutter
+
+### 🌱 i’m currently learning
+- flutter, dart, android (java), clean architecture, rest api integration, state management
+
+### 👯 i’m looking to collaborate on
+- open source flutter & android projects
+
+### 🤝 i’m looking for help with
+- advanced flutter architecture & state management
+
+### 💬 ask me about
+- flutter, android (java), oop, mobile app development, ui/ux design
+
+### ⚡ fun fact
+- i need more time to learn the fundamentals, but i enjoy perfecting them
+
+
 ### socials
 <p align="left">
   <a href="https://x.com/Arpon___09" target="_blank">
