@@ -1,4 +1,4 @@
-<h1 align=Hi 👋, I'm Arpon Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Arpon Chowdhury</h1>
 <h3 align="center">Flutter & Cross-Platform Mobile Developer | Android (Java) Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -42,20 +42,17 @@
 
 ### 🔗 Connect with me
 <p align="left">
-  <a href="https://twitter.com/@arpon___09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arpon___09" height="30" width="40" />
+  <a href="https://x.com/Arpon___09" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/arpon.chowdhury" target="_blank">
+  <a href="https://www.facebook.com/arpon.c09/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_fake_arpon_" target="_blank">
+  <a href="https://www.instagram.com/_fake_arpon_/?next=%2F" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/arpon_09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/arpon_09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/arpon-chowdhury09/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
