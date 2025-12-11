@@ -1,20 +1,10 @@
-<h1 align="center">Hi 👋, I'm Arpon Chowdhury</h1>
-<h3 align="center">Flutter & Cross-Platform Mobile Developer | Android (Java) Enthusiast | Lifelong Learner</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpon-09&label=Profile%20views&color=0e75b6&style=flat" alt="arpon-09" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpon-09" alt="arpon-09" />
-  </a>
-</p>
+hi 👋, i'm arpon chowdhury  
+flutter & cross-platform mobile developer, learning android (java)  
 
 ---
 
-### 🔗 Connect with me
-<p align="center">
+### socials
+<p align="left">
   <a href="https://x.com/Arpon___09" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="30" width="40" />
   </a>
@@ -31,34 +21,7 @@
 
 ---
 
-### 🔭 I’m currently working on
-- **Cross-Platform Mobile App Development with Flutter**  
-  [Project Link](#)
-
-### 🌱 I’m currently learning
-- **Flutter, Dart, Android (Java), Clean Architecture, REST API Integration, State Management**
-
-### 👯 I’m looking to collaborate on
-- **Open Source Flutter & Android Projects**  
-  [Project Link](#)
-
-### 🤝 I’m looking for help with
-- **Advanced Flutter Architecture & State Management**  
-  [Project Link](#)
-
-### 💬 Ask me about
-- **Flutter, Android (Java), OOP, Mobile App Development, UI/UX Design**
-
-### 📫 How to reach me
-- **Email:** [arpon.codes@gmail.com](mailto:arpon.codes@gmail.com)  
-- **Portfolio:** [Portfolio Link](#)
-
-### ⚡ Fun fact
-- I need more time to learn the fundamentals, but I enjoy perfecting them.  
-
----
-
-<h3>When I code, I rely on</h3>
+### tech stacks
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -83,8 +46,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### github stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arpon-09&show_icons=true&locale=en&hide_title=true&hide_border=true" /></p>
+
+---
+
+last profile view:  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpon-09&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpon-09&layout=compact" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=arpon-09&label=profile%20views&color=0e75b6&style=flat" alt="arpon-09" />
 </p>
