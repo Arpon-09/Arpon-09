@@ -1,40 +1,40 @@
-hi 👋, i'm arpon chowdhury  
-flutter & cross-platform mobile developer, learning android (java)  
+<p align="left">
+  <span style="font-size:22px;"><strong>Hey there! I’m Arpon 👋</strong></span> | Junior Mobile Developer
+</p>
+
+<p>
+<b>Skills:</b> Flutter | Java | Android Studio | Go (Backend)
+</p>
+
+<p>
+<b>What I do / What I’m trying to:</b><br>
+• Build functional & user-friendly mobile apps 🚀<br>
+• Write clean, maintainable code ✨<br>
+• Integrate backend services 💡
+</p>
+
+<p>
+<b>About me:</b><br>
+• Focused & thoughtful developer ⚡<br>
+• Always learning & solving problems 📚<br>
+• Love collaborating on innovative projects 🤝
+</p>
 
 ---
 
-### 🔭 i’m currently working on
-- cross-platform mobile app development with flutter
-
-### 🌱 i’m currently learning
-- flutter, dart, android (java), clean architecture, rest api integration, state management
-
-### 👯 i’m looking to collaborate on
-- open source flutter & android projects
-
-### 🤝 i’m looking for help with
-- advanced flutter architecture & state management
-
-### 💬 ask me about
-- flutter, android (java), oop, mobile app development, ui/ux design
-
-### ⚡ fun fact
-- i need more time to learn the fundamentals, but i enjoy perfecting them
-
-
 ### socials
-<p align="left">
+<p>
   <a href="https://x.com/Arpon___09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="30" width="40" />
+    <img alt="X/Twitter" src="https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/arpon.c09/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_fake_arpon_/?next=%2F" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/arpon-chowdhury09/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -66,11 +66,13 @@ flutter & cross-platform mobile developer, learning android (java)
 ---
 
 ### github stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arpon-09&show_icons=true&locale=en&hide_title=true&hide_border=true" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arpon-09&show_icons=true&locale=en&hide_title=true&hide_border=true" />
+</p>
 
 ---
 
 last profile view:  
-<p align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=arpon-09&label=profile%20views&color=0e75b6&style=flat" alt="arpon-09" />
 </p>
