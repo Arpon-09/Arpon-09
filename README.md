@@ -1,5 +1,19 @@
 <p align="left">
-  <span style="font-size:22px;"><strong>Hey there! I’m Arpon 👋</strong></span> | Junior Mobile Developer
+  <span style="font-size:26px;"><strong>Hey there! I’m Arpon 👋</strong></span> | Junior Mobile Developer
+</p>
+
+<p>
+<b>What I do / What I’m trying to:</b><br>
+🚀 Build functional & user-friendly mobile apps<br>
+✨ Write clean, maintainable code<br>
+💡 Integrate backend services
+</p>
+
+<p>
+<b>About me:</b><br>
+⚡ Focused & thoughtful developer<br>
+📚 Always learning & solving problems<br>
+🤝 Love collaborating on innovative projects
 </p>
 
 ### skills
@@ -9,21 +23,6 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=yellow" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-</p>
-
-
-<p>
-<b>What I do / What I’m trying to:</b><br>
-• Build functional & user-friendly mobile apps 🚀<br>
-• Write clean, maintainable code ✨<br>
-• Integrate backend services 💡
-</p>
-
-<p>
-<b>About me:</b><br>
-• Focused & thoughtful developer ⚡<br>
-• Always learning & solving problems 📚<br>
-• Love collaborating on innovative projects 🤝
 </p>
 
 ---
