@@ -2,9 +2,15 @@
   <span style="font-size:22px;"><strong>Hey there! I’m Arpon 👋</strong></span> | Junior Mobile Developer
 </p>
 
+### skills
 <p>
-<b>Skills:</b> Flutter | Java | Android Studio | Go (Backend)
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
+
 
 <p>
 <b>What I do / What I’m trying to:</b><br>
